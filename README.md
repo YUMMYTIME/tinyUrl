@@ -4,6 +4,7 @@ This project uses the MEAN stack:
 * Express.js: backend framework
 * Angular: frontend framework
 * Node.js: runtime environment
+
 Other tools and technologies used:
 * Bootstrap: layout and styles
 * angular-chart.js: visualization
